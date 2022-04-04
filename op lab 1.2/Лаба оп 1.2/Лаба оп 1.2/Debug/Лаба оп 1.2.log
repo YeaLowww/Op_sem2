@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Саша Головня\source\repos\Лаба оп 1.2\Лаба оп 1.2\Source.cpp(28,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Саша Головня\source\repos\Лаба оп 1.2\Лаба оп 1.2\Source.cpp(144): warning C4715: Makefile: значение возвращается не при всех путях выполнения
+  Лаба оп 1.2.vcxproj -> C:\Users\Саша Головня\source\repos\Лаба оп 1.2\Debug\Лаба оп 1.2.exe
