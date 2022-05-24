@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  Source1.cpp
+  Создание кода...
+C:\Users\Саша Головня\Desktop\OP sem 2\op lab 5\lab 5 op sem2\lab 5 op sem2\lab 5 op sem2\Source1.cpp(18): warning C4715: TVector2::get_coord: значение возвращается не при всех путях выполнения
+C:\Users\Саша Головня\Desktop\OP sem 2\op lab 5\lab 5 op sem2\lab 5 op sem2\lab 5 op sem2\Source1.cpp(48): warning C4715: TVector3::get_coord: значение возвращается не при всех путях выполнения
+  lab 5 op sem2.vcxproj -> C:\Users\Саша Головня\Desktop\OP sem 2\op lab 5\lab 5 op sem2\lab 5 op sem2\Debug\lab 5 op sem2.exe

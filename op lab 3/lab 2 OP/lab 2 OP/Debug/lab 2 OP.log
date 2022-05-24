@@ -1,0 +1,7 @@
+﻿  Source.cpp
+  Source1.cpp
+C:\Users\Саша Головня\Desktop\OP sem 2\op lab 3\lab 2 OP\lab 2 OP\Source1.cpp(4,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Саша Головня\Desktop\OP sem 2\op lab 3\lab 2 OP\lab 2 OP\Source1.cpp(49,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Саша Головня\Desktop\OP sem 2\op lab 3\lab 2 OP\lab 2 OP\Source1.cpp(47,9): warning C4101: V: неиспользованная локальная переменная
+  Создание кода...
+  lab 2 OP.vcxproj -> C:\Users\Саша Головня\Desktop\OP sem 2\op lab 3\lab 2 OP\Debug\lab 2 OP.exe
